@@ -1,0 +1,7 @@
+Revision history for Perl extension Sledge::TestPages
+
+0.01  Tue Feb 24 16:55:02 2004
+	- initial release, extracted from Sledge core
+	* Add CGI::initialize_globals() for duplicate calls
+	
+	
